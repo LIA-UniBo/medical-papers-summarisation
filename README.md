@@ -6,7 +6,7 @@ The University of Bologna (UniBo) Artificial Intelligence in Industry (AIITI) pr
 
 Three different methods (Baseline, TextRank, SBERT + NSearch) were evaluated on the test set. Our results show that applying an initial extractive summarization before a subsequent abstractive summarization shows a small benefit in terms of the ROUGE scores.
 
-The steps taken are described in detail in the [Report](https://github.com/LIA-UniBo/medical-papers-summarization/blob/main/Project%20Report.pdf).
+The steps taken are described in detail in the [Report](https://github.com/LIA-UniBo/medical-papers-summarization/blob/main/Report.pdf).
 
 The code may also be viewed directly from the [Notebook](https://github.com/LIA-UniBo/medical-papers-summarization/blob/main/main.ipynb).
 
